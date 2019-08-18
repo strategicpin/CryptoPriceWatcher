@@ -1,0 +1,8 @@
+﻿ticksuccess:success:bool
+tickmessage:message:string
+tickbid:bids:decimal
+tickask:asks:decimal
+ticklast:asks:decimal
+tickfullbid:[PAIRNAME].lowestAsk:decimal
+tickfullask:[PAIRNAME].highestBid:decimal
+tickfulllast:[PAIRNAME].last:decimal

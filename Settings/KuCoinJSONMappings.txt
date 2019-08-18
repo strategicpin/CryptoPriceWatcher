@@ -1,0 +1,5 @@
+﻿ticksuccess:success:bool
+tickmessage:message:string
+tickbid:bestBid:decimal
+tickask:bestAsk:decimal
+ticklast:price:decimal

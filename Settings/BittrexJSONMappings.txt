@@ -1,0 +1,5 @@
+﻿ticksuccess:success:bool
+tickmessage:message:string
+tickbid:result.Bid:decimal
+tickask:result.Ask:decimal
+ticklast:result.Last:decimal

@@ -1,0 +1,3 @@
+﻿tickbid:bid:decimal
+tickask:ask:decimal
+ticklast:last:decimal

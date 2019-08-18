@@ -1,0 +1,10 @@
+﻿BTCETH:ETHBTC; Markets-Y; Multi-Y
+BTCETC:ETCBTC; Markets-Y; Multi-Y
+BTCLTC:LTCBTC; Markets-Y; Multi-Y
+BTCDASH:DASHBTC; Markets-Y; Multi-Y
+ETHDASH:DASHETH; Markets-Y; Multi-Y
+BTCADA:ADABTC;Markets-Y; Multi-Y
+ETHADA:ADAETH;Markets-Y; Multi-Y
+ETHLTC:LTCETH;Markets-Y; Multi-Y
+BTCBCH:BCHBTC; Markets-Y; Multi-Y
+ETHBCH:BCHETH; Markets-Y; Multi-Y

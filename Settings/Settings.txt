@@ -1,0 +1,5 @@
+﻿ActiveCurrencies:BTCETH; BTCLTC; BTCDASH; BTCADA; ETHADA; ETHLTC;BTCBCH
+Exchanges: Bittrex;HITBTC;CEXIO;Poloniex
+MultiPairStartingCoins:ETH
+MutliPairMaxDepth:5
+MultiPairsActivePairs:BTCETH; BTCLTC; BTCDASH; ETHDASH; BTCADA; ETHADA;ETHDGB;BTCDGB;ETHBCH;BTCBCH
